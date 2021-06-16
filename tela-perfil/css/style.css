@@ -1,0 +1,56 @@
+body{
+    background-color: #0e1111 !important;
+    color:#ececec !important;
+}
+
+footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
+
+.conteudo-perfil{
+    background-color: #212529;
+    width: 35em;
+    padding: 3em;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+
+.container{
+    padding-top: 2rem;
+}
+
+.nome-perfil{
+    display: flex;
+    padding-top: 3em;
+}
+
+.img-logo{
+    width: 72px;
+    height: 72px;
+}
+
+.img-perfil{
+    width: 128px;
+    height: 128px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.perfil-titulo{
+    font-size: 20px;
+}
+
+.centralizar-botao-perfil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.botao-perfil{
+    width: 8em;
+}
